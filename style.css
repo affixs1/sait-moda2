@@ -1,0 +1,164 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+ .r {
+    position: relative;
+    top: 30px;
+ }
+
+ .a{
+    position: absolute;
+    
+
+ }
+
+ .m{
+    left: 430px;
+    top: 5px; 
+    font: italic 28px Fraunces;
+ }
+ .im{
+    position: absolute;
+    left: 215px;
+    top: 63px; 
+ }
+
+ .it {
+    position: absolute;
+    right: 300px;
+    top: 400px; 
+    left: 1200px;
+    font: bold 25px Fraunces;
+    background: #FFF1CA;
+    padding: 20px;
+ }
+
+ .header{
+    font-size: 56px;
+    font-weight: 900;
+    font: Inter;
+    
+ }
+
+ .logo{
+    font-size: 36px;
+    font-weight: 700;
+    font: Inter;
+    background: #FFE6A3;
+    padding: 10px;
+    
+ }
+
+ a{
+    text-decoration: none;
+    color: inherit;
+ }
+
+ .cr{
+    position: relative;
+    top: 30px;
+   
+ }
+
+ .cr2{
+    position: absolute;
+    left: 950px;
+    top: 10px;
+ }
+
+ .cr3{
+    position: absolute;
+    top: 400px;
+ }
+
+ .cr4{
+    font-size: 20px;
+    font-weight: 700;
+    font: 25px Fraunces;
+    background: #FFF1CA;
+    padding: 10px;
+    width: 70%;
+ }
+
+
+.cr9{
+   position: relative;
+   top: 30px;
+}
+.cr10{
+   position: relative;
+   left: 100px;
+   top: 30px;
+   background-color: #FFF1CA;
+   padding: 20px;
+}
+.cr11{
+   position: relative;
+   top: 60px;
+}
+.cr12{
+   position: relative;
+   left: 100px;
+   top: 60px;
+   background-color: #FFF1CA;
+   padding: 20px;
+}
+.t13{
+   font: bold 200% Fraunces;
+   
+}
+.t14{
+   font: bold 200% Fraunces;
+}
+.t15{
+   font: 25px Fraunces;
+}
+.t16{
+   font: 25px Fraunces;
+}
+.cr15{
+   position: relative;
+   top: 30px;
+}
+.cr14{
+   margin-top: 30px;
+}
+
+.cr16{
+   position: absolute;
+   margin-left: 400px;
+   margin-top: 300px;
+   font: 23px Fraunces;
+}
+
+.history-page_main-conteiner{
+   display: flex;
+   justify-content: space-between;
+   margin-top: 30px;
+   align-items: center;
+}
+.div-left{
+   display: flex;
+   flex-direction: column;
+}
+.div-left_img-2{
+   margin-top: 30px
+}
+.main-conteiner_div-center{
+   background: #FFF1CA;
+  font: 22px Fraunces;
+ padding: 35px;
+ height: 550px;
+ width: 400px;
+}
+.div-right{
+   display: flex;
+   height: fit-content;
+   flex-direction: column;
+}
+.div-right_img-2{
+   margin-top: 30px
+} 
